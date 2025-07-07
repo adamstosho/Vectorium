@@ -67,14 +67,10 @@ Vectorium is designed for:
 - **Everyday Users:** Currency, recipe, and travel conversions, or just crunching numbers
 
 
-
-
-
 **Built by ART_Redox @DLT_Africa with ❤️ for real-world problem solvers.**
 
----
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
