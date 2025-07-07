@@ -23,22 +23,22 @@ https://vectorium-navy.vercel.app/
 
 ## Screenshots
 
-![screenshot](/dist/assets/Screenshot%20(23).png)
+![screenshot](/public/Screenshot%20(23).png)
 This is the arithmetic calculator interface
 
-![screenshot](/dist/assets/Screenshot%20(24).png)
+![screenshot](/public/Screenshot%20(24).png)
 This is the unit converter interface
 
-![screenshot](/dist/assets/Screenshot%20(25).png)
+![screenshot](/public/Screenshot%20(25).png)
 This is the equation solver interface
 
-![screenshot](/dist/assets/Screenshot%20(26).png)
+![screenshot](/public/Screenshot%20(26).png)
 This is the interface of the calculator's graph plotter
 
-![screenshot](/dist/assets/Screenshot%20(27).png)
+![screenshot](/public/Screenshot%20(27).png)
 This interface shows the light mode functionality of the app
 
-![screenshot](/dist/assets/Screenshot%20(28).png)
+![screenshot](/public/Screenshot%20(28).png)
 This particular interface shows the history section of the app, stored in the local storage
 
 
