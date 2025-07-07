@@ -66,8 +66,15 @@ Vectorium is designed for:
 - **Engineers/Scientists:** Fast graphing and calculations
 - **Everyday Users:** Currency, recipe, and travel conversions, or just crunching numbers
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 
 
 **Built by ART_Redox @DLT_Africa with ❤️ for real-world problem solvers.**
+
+---
+
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+## License
+This project is licensed under the MIT License.
