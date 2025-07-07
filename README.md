@@ -1,10 +1,12 @@
 ## Vectorium
 
-A modern web calculator for real-world math, science, and engineering needs. Quantix Calculator helps students, professionals, and anyone who needs quick, accurate calculations, graphing, conversions, and equation solving—all in one place.
+A modern web calculator for real-world math, science, and engineering needs. Vectorium helps students, professionals, and anyone who needs fast, accurate tools for calculations, graphing, unit conversion, and solving equations—all in one place.
 
 
 ## Why Vectorium?
-Most calculators are either too basic or too complex. Quantix bridges the gap: it combines scientific functions, graph plotting, unit conversion, and equation solving in a single, easy-to-use app. No more switching between tools or searching for the right calculator online.
+Most calculators are either too basic or too complex. Vectorium bridges the gap: it combines scientific functions, graph plotting, unit conversion, and equation solving in a single, easy-to-use app. Say goodbye to switching apps or Googling calculators—Vectorium brings everything together.
+
+
 
 
 
@@ -63,6 +65,8 @@ Vectorium is designed for:
 - **Students:** Homework, science projects, and quick conversions
 - **Engineers/Scientists:** Fast graphing and calculations
 - **Everyday Users:** Currency, recipe, and travel conversions, or just crunching numbers
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 
 
